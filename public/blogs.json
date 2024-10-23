@@ -2,30 +2,30 @@
     {
       "id": 1,
       "cover": "https://i.ibb.co.com/d0DWsWn/1.jpg",
-      "title": "Mastering JavaScript in 2024",
+      "title": "How to get your first job as a self-taught programmer",
       "author": "John Doe",
       "author_img": "https://i.ibb.co.com/YjPsgDs/boy1.png",
-      "posted_date": "2024-10-01",
+      "posted_date": "Mar 14 (4 Days ago)",
       "reading_time": 8,
       "hashtags": ["#JavaScript", "#WebDevelopment", "#Programming"]
     },
     {
       "id": 2,
       "cover": "https://i.ibb.co.com/d5vSw9d/2.png",
-      "title": "React Hooks: A Comprehensive Guide",
+      "title": "Understanding Asynchronous JavaScript",
       "author": "Jane Smith",
       "author_img": "https://i.ibb.co.com/9vsQdV4/boy2.jpg",
-      "posted_date": "2024-09-15",
+      "posted_date": "Mar 13 (5 Days ago)",
       "reading_time": 10,
       "hashtags": ["#React", "#JavaScript", "#Frontend"]
     },
     {
       "id": 3,
       "cover": "https://i.ibb.co.com/gvbRfQw/3.png",
-      "title": "Understanding Asynchronous JavaScript",
+      "title": "React Hooks: A Comprehensive Guide",
       "author": "Alice Brown",
       "author_img": "https://i.ibb.co.com/F0V1Q61/girl1.jpg",
-      "posted_date": "2024-08-25",
+      "posted_date": "Mar 12 (6 Days ago)",
       "reading_time": 7,
       "hashtags": ["#AsyncJS", "#Promises", "#JavaScript"]
     },
@@ -35,7 +35,7 @@
       "title": "Tailwind CSS: Design Your UI Faster",
       "author": "Mark Johnson",
       "author_img": "https://i.ibb.co.com/kHqKZHj/girl2.jpg",
-      "posted_date": "2024-07-10",
+      "posted_date": "Mar 11 (7 Days ago)",
       "reading_time": 5,
       "hashtags": ["#CSS", "#TailwindCSS", "#WebDesign"]
     },
@@ -45,7 +45,7 @@
       "title": "Next.js vs. Gatsby: A Detailed Comparison",
       "author": "Emily Clark",
       "author_img": "https://randomuser.me/api/portraits/women/72.jpg",
-      "posted_date": "2024-06-30",
+      "posted_date": "Mar 10 (8 Days ago)",
       "reading_time": 12,
       "hashtags": ["#NextJS", "#Gatsby", "#WebDevelopment"]
     }
