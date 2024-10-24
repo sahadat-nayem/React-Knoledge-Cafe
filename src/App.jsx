@@ -9,8 +9,14 @@ function App() {
     const [readingTime, setReaditngTime] = useState(0)
 
     const handleAddToBookmark = blog =>{
-      const newBookmarks = [...bookmarks, blog];
-      setBookmarks(newBookmarks);
+      const isexist = bookmarks.find((blog) => blog.id == blog.id);
+      if (isexist){
+        alert("add Kora Jabe na")
+      }
+      else{
+        const newBookmarks = [...bookmarks, blog];
+        setBookmarks(newBookmarks);
+      }
     }
 
     const handleMarkAsRead = (id, time) =>{
